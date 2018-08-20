@@ -11,4 +11,8 @@ Content of the projects:
   keywords: binary classification, vectorization, standardization, cross-validation, KNeighborsClassifier,
             C-Support Vector Classification, DecisionTreeClassifier, LogisticRegression, RandomForestClassifier,
             GradientBoostingClassifier, accuracy, precision, recall, F1 score;
+            
+3. Time Series Analysis
+
+  keywords: autocorrelation, partial autocorrelation, Autoregressive Integrated Moving Average (ARIMA), Dickey—Fuller test;
 
